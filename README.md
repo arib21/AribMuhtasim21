@@ -10,6 +10,7 @@
 <img src="https://i.imgur.com/4Sx2jiN.png" width="30"/>&nbsp;&nbsp;
 <img src="https://i.imgur.com/s5s647F.png" width="30"/>&nbsp;&nbsp;
 <img src="https://i.imgur.com/42LOwKX.png" width="30"/>&nbsp;&nbsp;
+<img src="https://i.imgur.com/tzMGZ0i.png" width="40"/>&nbsp;&nbsp;
 <img src="https://i.imgur.com/FmFOEqo.png" width="30"/>&nbsp;&nbsp;
 <img src="https://i.imgur.com/0hxPjcv.png" width="30"/>&nbsp;&nbsp;
 <img src="https://i.imgur.com/PzkGlxM.png" width="30"/>&nbsp;&nbsp;
