@@ -3,7 +3,7 @@
 ### I am a child, and I know how to code (not completely)
 - I like to play minecraft ⛏
 - I know Python, Html, C and C++ very well. 👨‍🎓
-- I want to learn everything now 💯
+- Currently learning AngularJs 💯
 
 ### All of the languages I have worked with:
 
@@ -23,4 +23,8 @@
 
 <br>
 
-![Arib's github stats](https://github-readme-stats.vercel.app/api?username=AribMuhtasim21&show_icons=true&theme=radical)
+![Arib's github stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical)
+
+<br>
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/arib21)](https://github.com/arib21)
