@@ -5,7 +5,11 @@
 - I know Python, Html, C and C++ very well. 👨‍🎓
 - Currently learning AngularJs 💯
 
-### All of the languages I have worked with:
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arib21&layout=compact&theme=radical)](https://github.com/arib21)
+
+### All of the languages I used and printed "Hello, World":
 
 <img src="https://i.imgur.com/4Sx2jiN.png" width="30"/>&nbsp;&nbsp;
 <img src="https://i.imgur.com/E4WmOmM.png" width="30"/>&nbsp;&nbsp;
@@ -23,8 +27,8 @@
 
 <br>
 
-![Arib's github stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical)
+![Arib's github stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical&layout=compact)
 
 <br>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/arib21)](https://github.com/arib21)
+![Profile views](https://gpvc.arturio.dev/arib21)
