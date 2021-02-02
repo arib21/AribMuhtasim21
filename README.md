@@ -31,4 +31,4 @@
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/arib21)
+[![Profile views](https://gpvc.arturio.dev/arib21)](https://github.com/arib21)
