@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arib21&layout=compact&theme=radical)](https://github.com/arib21)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arib21&layout=compact&theme=radical)](https://github.com/arib21)
 
 ### All of the languages I used and printed "Hello, World":
 <img src="https://i.imgur.com/4Sx2jiN.png" width="30"/>&nbsp;&nbsp;
@@ -27,6 +27,6 @@
 
 <br/>
 
-![Arib's github stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical&layout=compact)
+![Arib's Github Stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical&layout=compact)
 
 [![Profile views](https://gpvc.arturio.dev/arib21)](https://github.com/arib21)
