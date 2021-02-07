@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arib21&layout=compact&theme=radical)](https://github.com/arib21)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arib21&layout=compact&theme=radical&hide=css)](https://github.com/arib21)
 
 ### All of the languages I used and printed "Hello, World":
 <img src="https://i.imgur.com/4Sx2jiN.png" width="30"/>&nbsp;&nbsp;
