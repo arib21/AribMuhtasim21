@@ -27,6 +27,6 @@
 
 <br/>
 
-![Arib's Github Stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical&layout=compact)
+[![Arib's Github Stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical&layout=compact)](https://github.com/arib21)
 
 [![Profile views](https://gpvc.arturio.dev/arib21)](https://github.com/arib21)
