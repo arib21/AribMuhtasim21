@@ -3,7 +3,7 @@
 ### I am a child, and I know how to code (not completely)
 
 - I know Python, Html, C and C++ very well. 👨‍🎓
-- Currently learning AngularJs 💯
+- Currently learning React Native 💯
 - Fun Fact: I like to play minecraft ⛏
 
 <br/>
