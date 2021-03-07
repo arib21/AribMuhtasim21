@@ -8,7 +8,7 @@
 
 <br/>
 
-### Connect with me at:
+### Links:
 <a href="https://github.com/arib21"><img src="https://github.githubassets.com/favicons/favicon.png" style="width: 30px;" title="Github Profile"></a>&nbsp;&nbsp;
 <a href="https://pypi.org/user/arib21"><img src="https://pypi.org/static/images/favicon.6a76275d.ico" style="width: 30px;" title="PyPi Profile"></a>&nbsp;&nbsp;
 <a href="https://repl.it/@arib21"><img src="https://repl.it/public/images/favicon.ico" style="width: 30px;" title="Repl.it Profile"></a>&nbsp;&nbsp;
