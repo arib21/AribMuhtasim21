@@ -1,7 +1,5 @@
 <h1 align="center">Hello there! I'm Arib</h1>
 
-### I am a child, and I know how to code (not completely)
-
 - I know Python, Html, C and C++ very well. 👨‍🎓
 - Currently learning React Native 💯
 - Fun Fact: I like to play minecraft ⛏
