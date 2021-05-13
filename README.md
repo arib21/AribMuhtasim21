@@ -1,9 +1,8 @@
 <h1 align="center">Hello there! I'm Arib</h1>
 
-- I know Python, Html, C and C++ very well. 👨‍🎓
-- Currently learning React Native 💯
+- I know Python, Html and CSS very well. 👨‍🎓
+- Currently learning .. Flask 💯
 - Fun Fact: I like to play minecraft ⛏
-
 <br/>
 
 ### Links:
