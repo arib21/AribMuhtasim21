@@ -1,36 +1,139 @@
-<h1 align="center">Hello there! I'm Arib</h1>
+<h1 align="left" id="arib21-title">Hallo, World!</h1>
+<h3 align="left">I'm Arib Muhtasim, a kinda dumb kid trying to look smarter than he actually is...</h3>
 
-- I know Python, Html and CSS very well. 👨‍🎓
-- Currently learning .. Flask 💯
-- Fun Fact: I like to play minecraft ⛏
-<br/>
+<p align="stats">
+  <a href="https://github.com/arib21?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/arib21?logo=Github&style=for-the-badge">
+  </a>
+  <a href="https://github.com/arib21?tab=followers">
+    <img alt="Python Experience" src="https://img.shields.io/badge/Python%20Experience-1.5%20yrs-blue?style=for-the-badge&logo=python">
+  </a>
+</p>
 
-### Links:
-<a href="https://github.com/arib21"><img src="https://github.githubassets.com/favicons/favicon.png" style="width: 30px;" title="Github Profile"></a>&nbsp;&nbsp;
-<a href="https://pypi.org/user/arib21"><img src="https://pypi.org/static/images/favicon.6a76275d.ico" style="width: 30px;" title="PyPi Profile"></a>&nbsp;&nbsp;
-<a href="https://repl.it/@arib21"><img src="https://repl.it/public/images/favicon.ico" style="width: 30px;" title="Repl.it Profile"></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/13740561/arib21"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" style="width: 30px;" title="Stack Overflow Profile"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/aribmuhtasim22"><img src="https://i.imgur.com/Y40T8Z2h.png" title="Hackerrank Profile"></a>
+<a href="github-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" alt="arib21" align="right" />
+</a>
 
-<br/>
+- Currently learning how to **C++** like a boss :sunglasses:
+- 
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arib21&layout=compact&theme=radical&hide=css)](https://github.com/arib21)
+<br>
 
-### All of the languages I used and printed "Hello, World":
-<img src="https://i.imgur.com/4Sx2jiN.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/E4WmOmM.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/o26cHFv.png" width="50"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/X2Dmicl.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/s5s647F.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/42LOwKX.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/tzMGZ0i.png" width="40"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/FmFOEqo.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/0hxPjcv.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/PzkGlxM.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/5CzM1Uj.png" width="25"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/mA3TD2F.png" width="30"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/RWX7aIP.png" width="30"/>&nbsp;&nbsp;
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<br/>
+> Tools, languages, and other things that I like to work with.
 
-[![Arib's Github Stats](https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&theme=radical&layout=compact)](https://github.com/arib21)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      </a>
+      <br>Thanos
+    </td>
+  </tr>
+</table>
