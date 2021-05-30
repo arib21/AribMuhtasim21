@@ -5,8 +5,11 @@
   <a href="https://github.com/arib21?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/arib21?logo=Github&style=for-the-badge">
   </a>
-  <a href="https://github.com/arib21?tab=followers">
+  <a href="https://github.com/arib21">
     <img alt="Python Experience" src="https://img.shields.io/badge/Python%20Experience-1.5%20yrs-blue?style=for-the-badge&logo=python">
+  </a>
+  <a href="https://stackoverflow.com/users/13740561/arib-muhtasim?tab=profile">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/endpoint?logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow-rep.herokuapp.com%2F">
   </a>
 </p>
 
