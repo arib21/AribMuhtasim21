@@ -20,7 +20,7 @@
 - Currently learning how to **C++** like a boss :sunglasses:
 - Currently hunting Stack Overflow Questions :joy:
 - I plan to contribute more to open-source!
-- I don't know why I refresh my desktop on Windows when it actually just refreshes my gui.
+- I don't know why I always refresh my desktop on Windows when it actually just refreshes my gui.
 <br>
 
 <h2 align="left" id="fav-tech">Favorite Tech</h2>
