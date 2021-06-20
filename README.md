@@ -9,7 +9,7 @@
     <img alt="Profile Views" src="https://badges.pufler.dev/visits/arib21/arib21?style=for-the-badge&label=Profile+Visits&color=blue">
   </a>
   <a href="https://stackoverflow.com/users/13740561/arib-muhtasim?tab=profile">
-    <img alt="Stack Overflow Reputation" src="https://img.shields.io/badge/StonkOverflow%20Reputation-116-orange?style=for-the-badge&logo=stackoverflow">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/badge/StonkOverflow%20Reputation-118-orange?style=for-the-badge&logo=stackoverflow">
   </a>
 </p>
 
