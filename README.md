@@ -18,7 +18,7 @@
 </a>
 
 - Currently learning how to **C++** like a boss :sunglasses:
-- Currently hunting Stack Overflow Questions :joy:
+- Currently working on a [project](https://github.com/arib21/simple-tcp-client)!
 - I plan to contribute more to open-source!
 - I don't know why I always refresh my desktop on Windows when it actually just refreshes my gui.
 
