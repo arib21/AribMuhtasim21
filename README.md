@@ -17,8 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" alt="arib21" align="right" />
 </a>
 
-- Currently learning how to **C++** like a boss :sunglasses:
-- Currently working on a [project](https://github.com/arib21/simple-tcp-client)!
+- Currently learning how to **Rust** like a boss :sunglasses:
+- Currently working on my **BILLION DOLLAR** startup!
 - I plan to contribute more to open-source!
 - I don't know why I always refresh my desktop on Windows when it actually just refreshes my gui.
 
