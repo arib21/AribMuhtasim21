@@ -1,15 +1,11 @@
-<h1 align="left" id="arib21-title">Hallo, World!</h1>
-<h4 align="left">I'm Arib Muhtasim, a kinda dumb kid trying to look smarter than he actually is...</h4>
+<h1 align="left" id="arib21-title"><img style='width: 1em;' src='https://i.ibb.co/ZgHrFq0/output-onlinegiftools.gif'></img>&nbsp;Hello! I'm Arib Muhtasim</h1>
 
 <p align="stats">
   <a href="https://github.com/arib21?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/arib21?logo=Github&style=for-the-badge">
   </a>
-  <a href="https://github.com/arib21">
-    <img alt="Profile Views" src="https://badges.pufler.dev/visits/arib21/arib21?style=for-the-badge&label=Profile+Visits&color=blue">
-  </a>
   <a href="https://stackoverflow.com/users/13740561/arib-muhtasim?tab=profile">
-    <img alt="Stack Overflow Reputation" src="https://img.shields.io/badge/StonkOverflow%20Reputation-118-orange?style=for-the-badge&logo=stackoverflow">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/badge/StonkOverflow%20Reputation-138-orange?style=for-the-badge&logo=stackoverflow">
   </a>
 </p>
 
@@ -17,10 +13,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" alt="arib21" align="right" />
 </a>
 
-- Currently learning how to **Rust** like a boss :sunglasses:
-- Currently working on my **BILLION DOLLAR** startup!
-- I plan to contribute more to open-source!
-- I don't know why I always refresh my desktop on Windows when it actually just refreshes my gui.
+- Currently learning **Flutter** for cross-platform app development
+- Planning to contribute to more forums like Stack Overflow
+- I plan to contribute to more open-source projects!
 
 <h2 align="left" id="fav-tech">Favorite Tech</h2>
 
