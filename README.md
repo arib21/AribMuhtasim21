@@ -1,16 +1,16 @@
-<h1 align="left" id="arib21-title"><img style='width: 1em;' src='https://i.ibb.co/ZgHrFq0/output-onlinegiftools.gif'></img>&nbsp;Hello! I'm Arib Muhtasim</h1>
+<h1 align="left" id="aribmuhtasim-title"><img style='width: 1em;' src='https://i.ibb.co/ZgHrFq0/output-onlinegiftools.gif'></img>&nbsp;Hello! I'm Arib Muhtasim</h1>
 
 <p align="stats">
-  <a href="https://github.com/arib21?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/arib21?logo=Github&style=for-the-badge">
+  <a href="https://github.com/aribmuhtasim?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aribmuhtasim?logo=Github&style=for-the-badge">
   </a>
   <a href="https://stackoverflow.com/users/13740561/arib-muhtasim?tab=profile">
     <img alt="Stack Overflow Reputation" src="https://img.shields.io/badge/StonkOverflow%20Reputation-138-orange?style=for-the-badge&logo=stackoverflow">
   </a>
 </p>
 
-<a href="https://github.com/arib21">
-  <img src="https://github-readme-stats.vercel.app/api?username=arib21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" alt="arib21" align="right" />
+<a href="https://github.com/aribmuhtasim">
+  <img src="https://github-readme-stats.vercel.app/api?username=aribmuhtasim&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" alt="aribmuhtasim" align="right" />
 </a>
 
 - Currently learning **Flutter** for cross-platform app development
